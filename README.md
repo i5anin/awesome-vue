@@ -1,3 +1,6 @@
+
+**ЦКП:** Подборка библиотек, инструментов и примеров Vue, сокращающая время поиска решения.
+
 <p align="center">
   <br>
   <img width="400" src="./assets/logo.svg" alt="logo of vue-awesome repository">
